@@ -119,14 +119,14 @@ AddEventHandler('esx_barbie_lyftupp:upplyft', function(target)
 	end
 end)
 
-Citizen.CreateThread(function()
+--[[Citizen.CreateThread(function()
   while true do
     Citizen.Wait(0)
     if IsControlJustReleased(0, Keys['F3']) and not ESX.UI.Menu.IsOpen('default', GetCurrentResourceName(), 'action_menu') then
 		OpenActionMenuInteraction()
     end
   end
-end)
+end)]]--
 
 RegisterNetEvent('esx_barbie_lyftupp')
 AddEventHandler('esx_barbie_lyftupp', function()
