@@ -44,6 +44,9 @@ If you are using english verison, just rename this in client.
 
 Don't forget to add this in server.cfg "start esx_barbie_lyftupp"
 
+### Picture ###
+https://imgur.com/a/OcKF2gx
+
 
 ### INFO ###
 Discord: barbie#0001
