@@ -46,7 +46,9 @@ Don't forget to add this in server.cfg "start esx_barbie_lyftupp"
 
 ### INSTALLATION ###
 1 Download this file form github.
+
 2 Extract it and place the extracted folder in your [ESX] directory.
+
 3 In your server.cfg type start esx_andreas_policeloadout
 
 
