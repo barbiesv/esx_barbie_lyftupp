@@ -52,7 +52,3 @@ Don't forget to add this in server.cfg "start esx_barbie_lyftupp"
 https://imgur.com/a/OcKF2gx
 
 
-### INFO ###
-Discord: barbie#0001
-
-
