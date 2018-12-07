@@ -8,13 +8,13 @@ hasRope = false
 
 hasUsedRope = false
 
-"table.insert(elements, {label = ('Lyft upp'), value = 'drag'})"
+table.insert(elements, {label = ('Lyft upp'), value = 'drag'})
 
-"if data.current.value == 'drag' then
+`if data.current.value == 'drag' then
 
   TriggerEvent('esx_barbie_lyftupp')
 
-end"
+end`
 
 Om du vill använda engelska verisonen så byter du namn på detta i client.
 "en-main.lua" till "main.lua"
